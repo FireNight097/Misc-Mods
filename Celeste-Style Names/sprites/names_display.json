@@ -1,0 +1,9 @@
+{
+
+	"Salad_Plain_Past_C":  { "File": "Celeste-Style Names.png", "Rect": "0,0,40,40", "Center": "20,20" },
+        "White_Park_Act_2_C":  { "File": "Celeste-Style Names.png", "Rect": "0,0,30,30", "Center": "10,10" },
+	"Wily_Stage_1_C":  { "File": "Celeste-Style Names.png", "Rect": "0,0,50,50", "Center": "30,30" },
+        "Sylvania_Castle_Act_1_C":  { "File": "Celeste-Style Names.png", "Rect": "0,0,20,20", "Center": "40,40" },
+        "Sky_Fortress_Act_2_C":  { "File": "Celeste-Style Names.png", "Rect": "0,0,60,60", "Center": "50,50" }
+
+}
