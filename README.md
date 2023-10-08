@@ -7,4 +7,4 @@ This mod display information about the songs in a Celeste Style.
 
 [Newtrogic Panic-Style Names]
 
-(Work in Progress)
+Same as "Celeste-Style Names", but in a NEWTROGIC PANIC Style
