@@ -1,0 +1,30 @@
+{
+	"Metadata":
+	{
+		"Name": "Celeste-Style Info for songs",
+		"Author": "FireNight097",
+		"Description": "Dysplay information of the songs (ej: Autor, Zone and Act) in a Celeste Style",
+		"URL": "https://github.com/FireNight097/Misc-Mods.git",
+		"ModVersion": "0",
+		"GameVersion": "22.09.10.0"
+        },
+        "Settings":
+        {
+                "List":
+                [
+                         {
+                               "InternalName": "ScreenName",
+                               "DisplayName": "Info Display",
+                               "Variable": "cassete.names",
+                               "Category": "Extra Information Display",
+                               "DefaultValue": "1",
+                               "Options":
+                               {
+                                       "0": "Original",
+                                       "1": "Celeste-Style info",
+                                       "2": "Newtrogic Panic-Style info"
+                               }
+                         }
+                ]
+        }
+}
