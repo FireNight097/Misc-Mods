@@ -1,5 +1,5 @@
 # Misc-Mods
-Some small mods like:
+mods like:
 
 [Celeste-Style Names]
 
