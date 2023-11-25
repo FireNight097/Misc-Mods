@@ -1,0 +1,21 @@
+{
+        // AIZ 1
+        "01": { "File": "06 BGM C - Latin.ogg", "Type": "Music", "LoopStart": "412869", "Name": "Picross 3D Round 2 - Latin" },
+
+        // Continue
+        "28": { "File": "19 Complete (Unused).ogg", "Type": "Music", "Name": "Picross 3D Round 2 - Complete (Unused)" },
+
+        // Level Results
+        "29": { "File": "16 Result.ogg", "Type": "Jingle", "Name": "Picross 3D Round 2 - Result" },
+
+        // Competition
+        "2d": { "File": "05 BGM B - Jazz.ogg", "Type": "Music", "LoopStart": "196322", "Name": "Picross 3D Round 2 - Jazz" },
+        "2d": { "File": "17 Viewer.ogg", "Type": "Music", "Name": "Picross 3D Round 2 - Viewer" },
+
+        // Data Select
+        "2f": { "File": "02 Menu.ogg", "Type": "Music", "Name": "Picross 3D Round 2 - Menu" },
+
+        // Ending
+        "dc": { "File": "18 Ending.ogg", "Type": "Music", "LoopStart": "196048", "Name": "Picross 3D Round 2 - Ending" }
+
+}
